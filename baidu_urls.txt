@@ -1,3 +1,4 @@
+https://blog.pangao.vip/Python3报错-Python入门到精通/
 https://blog.pangao.vip/Python3模块-Python入门到精通/
 https://blog.pangao.vip/Python3函数-Python入门到精通/
 https://blog.pangao.vip/Python3循环语句-Python入门到精通/
